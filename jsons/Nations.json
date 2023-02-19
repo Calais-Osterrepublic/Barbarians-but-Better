@@ -2,11 +2,12 @@
 	//Barbarian
 	{
 		"name": "Barbarians",
-		"outerColor": [0,0,0],
-		"innerColor": [182,0,0],
+		"outerColor": [160,0,0],
+		"innerColor": [0,0,0],
 		"style": "Barbarians",
 		"uniques": ["Can only heal by pillaging", 
 					"[+1] Sight <for [Scout] units>", 
+			    "Heals [25] damage if it kills a unit",
 					"[+33]% Strength <for [All] units>", 
 					"[+1] Movement <for [Scout] units>", 
 					"[{Land} {Melee}] units gain the [No Suicide] promotion", 
