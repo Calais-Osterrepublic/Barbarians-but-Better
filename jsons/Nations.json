@@ -5,7 +5,7 @@
 		"outerColor": [160,0,0],
 		"innerColor": [0,0,0],
 		"style": "Barbarians",
-		"uniques": ["Can only heal by pillaging", 
+		"uniques": [
 					"[+1] Sight <for [Scout] units>", 
 			    "Heals [25] damage if it kills a unit",
 					"[+33]% Strength <for [All] units>", 
