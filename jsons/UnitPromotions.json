@@ -4,7 +4,7 @@
 		"uniques": ["Can only attack [Civilian] units", "Can only attack [Military] units", "[+15]% Strength when stacked with [Worker]"],
 	},
 	{
-		"name": "Explorer", // Ruins effecr
-		"uniques": ["[+10]% Strength <when defending>", "[+1] Sight"]
+		"name": "Barbarian Civilian", // Ruins effecr
+		"uniques": ["Can construct [Customs house]"]
 	}
 ]
