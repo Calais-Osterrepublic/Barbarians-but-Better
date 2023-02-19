@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "stolen technology",
-		"notification": "We are succesfully take control of the stolen technology! (+[scienceAmount] science)",
+		"notification": "We are succesfully take control of their stolen technology! (+[scienceAmount] science)",
 		"uniques": ["Gain [100]-[150] [Science]", "Only available <after [50] turns>"],
 		"color": "#7f7fff"
 	},
@@ -74,14 +74,14 @@
 	// Faith
 	{
 		"name": "a praying priest",
-		"notification": "A dying priest pray for you! (+[faithAmount] faith)",
+		"notification": "A dying priest prays for you! (+[faithAmount] faith)",
 		"uniques": ["Hidden when religion is disabled", "Gain [100]-[250] [Faith]", "Only available <after founding a Pantheon>",
 					"Only available <after [40] turns>"],
 		"color": "#CDDDF4"
 	},
 	{
 		"name": "a wandering oracle",
-		"notification": "An oracle foresee your future! (+[faithAmount] faith)",
+		"notification": "An oracle foresees your future! (+[faithAmount] faith)",
 		"uniques": ["Hidden when religion is disabled", "Gain [250]-[350] [Faith]", "Only available <after founding a Pantheon>",
 					"Only available <after [60] turns>"],
 		"color": "#CDDDF4"
@@ -121,12 +121,6 @@
 		"name": "hell training",
 		"notification": "Your men experience a hellish training!",
 		"uniques": ["This Unit gains [30] XP", "Only available <after [30] turns>"],
-		"color": "#20afe8"
-	},
-	{
-		"name": "explorer equipment",
-		"notification": "Our unit finds equipments hidden in the ruins!",
-		"uniques": ["This Unit gains the [Explorer] promotion", "Only available <after [20] turns>"],
 		"color": "#20afe8"
 	},
 	{
