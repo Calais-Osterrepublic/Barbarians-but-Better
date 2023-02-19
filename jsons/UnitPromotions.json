@@ -5,6 +5,6 @@
 	},
 	{
 		"name": "Barbarian Civilian", // Ruins effecr
-		"uniques": ["Can construct [Barbarian Encampment]"]
+		"uniques": ["Can construct [Barbarian encampment]"]
 	}
 ]
