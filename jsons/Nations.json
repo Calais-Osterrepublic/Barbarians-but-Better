@@ -13,8 +13,7 @@
 					"[{Land} {Melee}] units gain the [No Suicide] promotion",
 					"[Civilian] units gain the [Barbarian Civilian] promotion",
 					"[+100]% Strength <within [2] tiles of a [Barbarian encampment]>",
-					"[-33]% Strength <within [1] tiles of a [City ruins]>",
-					"[Civilian] units gain the [Barbarian Civilian] promotion"
+					"[-33]% Strength <within [1] tiles of a [City ruins]>"
 		]
 	}
 ]
