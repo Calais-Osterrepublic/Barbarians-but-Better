@@ -326,7 +326,7 @@ UnitIcons/Barbarian Scout
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Explorer
+UnitPromotionIcons/Barbarian Civilian
   rotate: false
   xy: 4, 148
   size: 100, 100
