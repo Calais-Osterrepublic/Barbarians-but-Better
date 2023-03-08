@@ -17,7 +17,7 @@
 		"strength": 20,
 		"rangedStrength": 20,
 		"range": 1,
-		"cost": 25,
+		"cost": 250,
 		"requiredTech" : "Scientific Theory",
 		"uniques": ["Invisible to non-adjacent units", "[+1] Sight"],
 		"promotions": ["Ignore terrain cost"],
@@ -37,5 +37,39 @@
 					"Can only attack [City] units", 
 					"Self-destructs when attacking"],
 		"attackSound": "shot"
+	}
+	{
+		"name": "Spirit of Revolution",
+		"unitType": "Armored",
+		"uniqueTo": "Barbarians",
+		"movement": 1,
+		"strength": 100,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": [
+			"[+400]% Strength <when attacking>", 
+			"Can only attack [Military] units", 
+			"Self-destructs when attacking",
+			"Invisible to others",
+			"Will not be displayed in Civilopedia",
+			"May attack when embarked"
+		],
+		"attackSound": "nonmetalhit"
+	}
+	{
+		"name": "Spirit of the Night",
+		"unitType": "Armored",
+		"uniqueTo": "Barbarians",
+		"movement": 5,
+		"strength": 10,
+		"cost": 150,
+		"obsoleteTech": "Gunpowder",
+		"uniques": [
+			"Can only attack [Melee] units", 
+			"Self-destructs when attacking",
+			"Invisible to others",
+			"Will not be displayed in Civilopedia"
+		],
+		"attackSound": "nonmetalhit"
 	}
 ]
