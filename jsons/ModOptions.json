@@ -1,5 +1,5 @@
 {
     "constants": {
-        "maxXPfromBarbarians":1500000,
+        "maxXPfromBarbarians":1000,
     }
 }
