@@ -5,6 +5,8 @@
 	},
 	{
 		"name": "Barbarian Civilian", // Ruins effecr
-		"uniques": ["Can construct [Barbarian encampment]"]
+		"uniques": ["Can move after attacking",
+			"Ignores Zone of Control","Can pass through impassable tiles",
+			"Invisible to non-adjacent units",]
 	}
 ]
