@@ -7,13 +7,12 @@
 		"style": "Barbarians",
 		"uniques": [
 			    		"Heals [25] damage if it kills a unit",
-					"[+75]% Strength <for [Melee] units> <when attacking>",
-					"[+33]% Strength <for [Ranged] units> <when defending>",
+					"[+75]% Strength <for [Military] units> <when defending>",
+					"[+33]% Strength <for [Military] units> <when attacking>",
 					"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
 					"[{Land} {Melee}] units gain the [No Suicide] promotion",
-					"[+100]% Strength <within [2] tiles of a [Barbarian encampment]> <when defending>",
-					"[-33]% Strength <within [1] tiles of a [City center]>",
-					"No movement cost to pillage <for [Land] units>"
+					"[+100]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending>",
+					"No movement cost to pillage <for [Military] units>"
 		]
 	}
 ]
