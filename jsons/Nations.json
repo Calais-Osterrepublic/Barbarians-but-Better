@@ -2,18 +2,18 @@
 	//Barbarian
 	{
 		"name": "Barbarians",
-		"outerColor": [160,0,0],
+		"outerColor": [0,100,0],
 		"innerColor": [0,0,0],
 		"style": "Barbarians",
 		"uniques": [
 			    		"Heals [25] damage if it kills a unit",
-					"[+75]% Strength <for [All] units>",
+					"[+75]% Strength <for [Melee] units> <when attacking>",
 					"[+33]% Strength <for [Ranged] units> <when defending>",
 					"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
 					"[{Land} {Melee}] units gain the [No Suicide] promotion",
-					"[Civilian] units gain the [Barbarian Civilian] promotion",
-					"[+100]% Strength <within [2] tiles of a [Barbarian encampment]>",
-					"[-33]% Strength <within [1] tiles of a [City center]>"
+					"[+100]% Strength <within [2] tiles of a [Barbarian encampment]> <when defending>",
+					"[-33]% Strength <within [1] tiles of a [City center]>",
+					"No movement cost to pillage <for [Land] units>"
 		]
 	}
 ]
