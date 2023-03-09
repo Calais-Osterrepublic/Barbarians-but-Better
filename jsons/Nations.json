@@ -6,7 +6,6 @@
 		"innerColor": [0,75,0],
 		"style": "Barbarians",
 		"uniques": [
-			    		"Heals [25] damage if it kills a unit",
 					"[+75]% Strength <for [Military] units> <when defending>",
 					"[+33]% Strength <for [Military] units> <when attacking>",
 					"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
