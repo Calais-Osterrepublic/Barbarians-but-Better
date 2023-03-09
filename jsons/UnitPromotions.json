@@ -1,7 +1,7 @@
 [
 	{
 		"name": "No Suicide", // Barbarians Land Melee
-		"uniques": ["Can only attack [Civilian] units", "Can only attack [Military] units", "[+15]% Strength when stacked with [Worker]"],
+		"uniques": ["Can only attack [Civilian] units", "Can only attack [Military] units", "[+15]% Strength when stacked with [Worker]","Heals [25] damage if it kills a unit"],
 	},
 	{
 		"name": "Barbarian Civilian", // Ruins effecr
