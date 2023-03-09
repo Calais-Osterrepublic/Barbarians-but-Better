@@ -45,6 +45,8 @@
 		"movement": 1,
 		"strength": 10,
 		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Balistics",
 		"uniques": [
 			"[+400]% Strength <when attacking>", 
 			"Can only attack [Military] units", 
@@ -52,6 +54,46 @@
 			"Invisible to non-adjacent units",
 			"Can see invisible [Military] units",
 			"Will not be displayed in Civilopedia",
+			"May attack when embarked"
+		],
+		"attackSound": "nonmetalhit"
+	}
+	{
+		"name": "Spirit of the Wild",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"movement": 1,
+		"strength": 10,
+		"rangedStrength": 32,
+		"range": 2,
+		"cost": 150,
+		"obsoleteTech": "Gunpowder",
+		"uniques": [
+			"Can only attack [Melee] units", 
+			"Self-destructs when attacking",
+			"Invisible to others",
+			"Can see invisible [Military] units",
+			"Will not be displayed in Civilopedia",
+			"May attack when embarked"
+		],
+		"attackSound": "nonmetalhit"
+	}
+	{
+		"name": "Spirit of Anarchy",
+		"unitType": "Armored",
+		"uniqueTo": "Barbarians",
+		"movement": 1,
+		"strength": 100,
+		"cost": 150,
+		"requiredTech": "Balistics",
+		"uniques": [
+			"[+400]% Strength <when attacking>", 
+			"Can only attack [Military] units", 
+			"Invisible to others",
+			"Can see invisible [Military] units",
+			"Will not be displayed in Civilopedia",
+			"Limited to [1] per Civilization",
+			"Heals [-10] damage if it kills a unit",
 			"May attack when embarked"
 		],
 		"attackSound": "nonmetalhit"
