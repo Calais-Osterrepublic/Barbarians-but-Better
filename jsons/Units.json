@@ -94,6 +94,7 @@
 			"Will not be displayed in Civilopedia",
 			"Limited to [1] per Civilization",
 			"Heals [-10] damage if it kills a unit",
+			"[-15] HP when healing",
 			"May attack when embarked"
 		],
 		"attackSound": "nonmetalhit"
