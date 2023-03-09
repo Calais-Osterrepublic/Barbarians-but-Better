@@ -2,8 +2,8 @@
 	//Barbarian
 	{
 		"name": "Barbarians",
-		"outerColor": [0,100,0],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,10],
+		"innerColor": [0,75,0],
 		"style": "Barbarians",
 		"uniques": [
 			    		"Heals [25] damage if it kills a unit",
