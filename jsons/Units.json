@@ -64,8 +64,8 @@
 		"uniqueTo": "Barbarians",
 		"movement": 5,
 		"strength": 10,
-		"rangedStrength": 32,
-		"range": 2,
+		"rangedStrength": 10,
+		"range": 1,
 		"cost": 150,
 		"obsoleteTech": "Gunpowder",
 		"uniques": [
@@ -74,7 +74,8 @@
 			"Can see invisible [Military] units",
 			"Will not be displayed in Civilopedia",
 			"Rough terrain penalty",
-			"[+5] HP when healing",
+			"Heals [-10] damage if it kills a unit",
+			"[-15] HP when healing",
 			"[-10]% Strength <within [1] tiles of a [City center]>"
 		],
 		"attackSound": "nonmetalhit"
