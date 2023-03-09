@@ -62,19 +62,20 @@
 		"name": "Spirit of the Wild",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
-		"movement": 1,
+		"movement": 5,
 		"strength": 10,
 		"rangedStrength": 32,
 		"range": 2,
 		"cost": 150,
 		"obsoleteTech": "Gunpowder",
 		"uniques": [
-			"Can only attack [Melee] units", 
-			"Self-destructs when attacking",
+			"Can only attack [Melee] units",
 			"Invisible to others",
 			"Can see invisible [Military] units",
 			"Will not be displayed in Civilopedia",
-			"May attack when embarked"
+			"Rough terrain penalty",
+			"[+5] HP when healing",
+			"[-10]% Strength <within [1] tiles of a [City center]>"
 		],
 		"attackSound": "nonmetalhit"
 	}
@@ -83,7 +84,9 @@
 		"unitType": "Armored",
 		"uniqueTo": "Barbarians",
 		"movement": 1,
-		"strength": 100,
+		"strength": 10,
+		"rangedStrength": 32,
+		"range": 2,
 		"cost": 150,
 		"requiredTech": "Balistics",
 		"uniques": [
