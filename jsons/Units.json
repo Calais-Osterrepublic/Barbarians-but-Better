@@ -2,6 +2,7 @@
 	{
 		"name": "Scout",
 		"unitType": "Scout",
+		"upgradesTo": "Wayfarer",
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
@@ -37,7 +38,7 @@
 					"Can only attack [City] units", 
 					"Self-destructs when attacking"],
 		"attackSound": "shot"
-	}
+	},
 	{
 		"name": "Spirit of Revolution",
 		"unitType": "Armored",
@@ -46,7 +47,7 @@
 		"strength": 10,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"obsoleteTech": "Balistics",
+		"obsoleteTech": "Ballistics",
 		"uniques": [
 			"[+400]% Strength <when attacking>", 
 			"Can only attack [Military] units", 
@@ -57,29 +58,7 @@
 			"May attack when embarked"
 		],
 		"attackSound": "nonmetalhit"
-	}
-	{
-		"name": "Spirit of the Wild",
-		"unitType": "Sword",
-		"uniqueTo": "Barbarians",
-		"movement": 5,
-		"strength": 10,
-		"rangedStrength": 10,
-		"range": 1,
-		"cost": 150,
-		"obsoleteTech": "Gunpowder",
-		"uniques": [
-			"Can only attack [Melee] units",
-			"Invisible to others",
-			"Can see invisible [Military] units",
-			"Will not be displayed in Civilopedia",
-			"Rough terrain penalty",
-			"Heals [-10] damage if it kills a unit",
-			"[-15] HP when healing",
-			"[-10]% Strength <within [1] tiles of a [City center]>"
-		],
-		"attackSound": "nonmetalhit"
-	}
+	},
 	{
 		"name": "Spirit of Anarchy",
 		"unitType": "Armored",
@@ -89,17 +68,17 @@
 		"rangedStrength": 32,
 		"range": 2,
 		"cost": 150,
-		"requiredTech": "Balistics",
+		"requiredTech": "Ballistics",
 		"uniques": [
 			"[+400]% Strength <when attacking>", 
 			"Can only attack [Military] units", 
 			"Invisible to others",
-			"Can see invisible [Military] units",
 			"Will not be displayed in Civilopedia",
 			"Limited to [1] per Civilization",
 			"Heals [-10] damage if it kills a unit",
 			"[-15] HP when healing",
-			"May attack when embarked"
+			"May attack when embarked",
+			"Unit will heal every turn, even if it performs an action"
 		],
 		"attackSound": "nonmetalhit"
 	}
