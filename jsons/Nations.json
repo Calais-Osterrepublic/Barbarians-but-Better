@@ -10,7 +10,6 @@
 					"[+33]% Strength <for [Military] units> <when attacking>",
 					"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
 					"[{Land} {Melee}] units gain the [No Suicide] promotion",
-					"[{Land} {Ranged}] units gain the [Barbarian Civilian] promotion",
 					"[+100]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending>",
 					"No movement cost to pillage <for [Military] units>"
 		]
