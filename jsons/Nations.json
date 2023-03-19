@@ -5,13 +5,38 @@
 		"outerColor": [0,0,10],
 		"innerColor": [0,75,0],
 		"style": "Barbarians",
+		"uniqueText": "Let's just say that there's more. For example, they can heal without pillaging."
 		"uniques": [
-					"[+75]% Strength <for [Military] units> <when defending>",
-					"[+33]% Strength <for [Military] units> <when attacking>",
-					"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
-					"[{Land} {Melee}] units gain the [No Suicide] promotion",
-					"[+100]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending>",
-					"No movement cost to pillage <for [Military] units>"
+			"[+75]% Strength <for [Military] units>",
+			
+			"[{Land} {Melee}] units gain the [No Suicide] promotion",
+			
+			"No movement cost to pillage <for [Military] units>"
+			
+			//Medieval - Barbarian get more effective!
+			"Triggers the following global alert: [The Barbarians have entered the Medieval Era! Be wary of their strength...] <upon entering the [Medieval era]>",
+			"[+75]% Strength <for [Military] units> <starting from the [Medieval era]>",
+			
+			//Renaissance - Barbarian Capturing Units!
+			"Triggers the following global alert: [The Barbarians have entered the Renaissance Era! Watch your units!] <upon entering the [Renaissance era]>",
+			"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance> <starting from the [Renaissance era]>",
+			
+			//Industrial - Barbarian get stronger near Encampments!
+			"Triggers the following global alert: [The Barbarians have entered the Industrial Era! Entrenchment near the encampments increases!] <upon entering the [Industrial era]>",
+			"[+33]% Strength <within [3] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
+			"[+33]% Strength <within [2] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
+			"[+33]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
+			
+			//Modern - Barbarians start revolts!
+			"Triggers the following global alert: [Unrest grows around the world! Could this be because of the Barbarians?] <upon entering the [Modern era]>",
+			
+			//Atomic - Barbarian NUCLEAR WEAPONS!
+			"Triggers the following global alert: [RED ALERT! The Barbarians have entered the Atomic Era! I repeat, RED ALERT!] <upon entering the [Atomic era]>",
+			
+			//Information - Barbarians go underground!
+			"Triggers the following global alert: [What happened to the Barbarians? Be wary of this silence.] <upon entering the [Information era]>",
+			"[Military] units gain the [Barbarian Civilian] promotion"
+			
 		]
 	}
 ]
