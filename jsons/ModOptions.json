@@ -2,4 +2,16 @@
     "constants": {
         "maxXPfromBarbarians":1000,
     }
+    "isBaseRuleset": false,
+    "uniques": [
+    //All nations are under this "compact"
+    "Rebel units may spawn <upon declaring war with a major Civilization> <when below [-10] Happiness>",
+    "Rebel units may spawn <upon conquering a city> <when below [-10] Happiness>",
+    "Rebel units may spawn <when at war> <when below [-10] Happiness>",
+    /*"[+33]% Strength <for [Barbarian] units> <during the [Ancient era]>",
+    "[+100]% Strength <for [Barbarian] units> <during the [Classical era]>",
+    "Rebel units may spawn <upon conquering a city> <during the [Classical era]>",
+    "[+150]% Strength <for [Barbarian] units> <during the [Medieval era]>",
+    "Rebel units may spawn <upon conquering a city> <during the [Classical era]>",*/
+    ],
 }
