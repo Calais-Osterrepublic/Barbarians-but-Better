@@ -33,7 +33,7 @@
 		"rangedStrength": 32,
 		"range": 1,
 		"cost": 150,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Atomic Theory",
 		"uniques": [
 			"[+400]% Strength <vs cities> <when attacking>", 
 			"[-40]% Strength <vs [Military] units> <when defending>",
