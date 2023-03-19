@@ -40,7 +40,8 @@
 			"Can only attack [City] units", 
 			"Self-destructs when attacking",
 			"Nuclear weapon of Strength [1]",
-			"Blast radius [5]"
+			"Blast radius [5]",
+			"Only available <starting from the [Atomic era]>"
 			   ],
 		"attackSound": "shot"
 	},
