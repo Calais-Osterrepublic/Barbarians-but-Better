@@ -33,7 +33,7 @@
 			
 			//Information - Barbarians go underground!
 			"Triggers the following global alert: [What happened to the Barbarians? Be wary of this silence.] <upon entering the [Information era]>",
-			"[Military] units gain the [Barbarian Civilian] promotion"
+			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Modern era]>"
 			
 		]
 	}
