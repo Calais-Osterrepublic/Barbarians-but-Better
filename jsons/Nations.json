@@ -8,10 +8,8 @@
 		"uniqueText": "Let's just say that there's more. For example, they can heal without pillaging."
 		"uniques": [
 			"[+75]% Strength <for [Military] units>",
-			
 			"[{Land} {Melee}] units gain the [No Suicide] promotion",
-			
-			"No movement cost to pillage <for [Military] units>"
+			"No movement cost to pillage <for [Military] units>",
 			
 			//Medieval - Barbarian get more effective!
 			"Triggers the following global alert: [The Barbarians have entered the Medieval Era! Be wary of their strength...] <upon entering the [Medieval era]>",
