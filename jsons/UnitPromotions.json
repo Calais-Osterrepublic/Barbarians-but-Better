@@ -1,12 +1,23 @@
 [
 	{
 		"name": "No Suicide", // Barbarians Land Melee
-		"uniques": ["Can only attack [Civilian] units", "Can only attack [Military] units", "[+15]% Strength when stacked with [Worker]","Heals [25] damage if it kills a unit"],
+		"uniques": [
+			"Can only attack [Civilian] units", 
+			"Can only attack [Military] units", 
+			"[+15]% Strength when stacked with [Worker]",
+			"Heals [25] damage if it kills a unit"
+		],
 	},
 	{
-		"name": "Barbarian Civilian", // Ruins effecr
-		"uniques": ["Can move after attacking",
-			"Ignores Zone of Control","Can pass through impassable tiles",
-			"Invisible to non-adjacent units",]
+		"name": "Barbarian Civilian", // After the information era
+		"uniques": [
+			"Can move after attacking",
+			"Ignores Zone of Control",
+			"Can pass through impassable tiles",
+			"Invisible to non-adjacent units",
+			"Unit will heal every turn, even if it performs an action",
+			"Destroys tile improvements when attacking",
+			"All tiles cost 1 movement"
+		]
 	}
 ]
