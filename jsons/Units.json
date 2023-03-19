@@ -34,9 +34,14 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+400]% Strength <vs cities> <when attacking>", "[-40]% Strength <vs [Military] units> <when defending>",
-					"Can only attack [City] units", 
-					"Self-destructs when attacking"],
+		"uniques": [
+			"[+400]% Strength <vs cities> <when attacking>", 
+			"[-40]% Strength <vs [Military] units> <when defending>",
+			"Can only attack [City] units", 
+			"Self-destructs when attacking",
+			"Nuclear weapon of Strength [1]",
+			"Blast radius [5]"
+			   ],
 		"attackSound": "shot"
 	},
 	{
