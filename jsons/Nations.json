@@ -5,7 +5,7 @@
 		"outerColor": [0,0,10],
 		"innerColor": [0,75,0],
 		"style": "Barbarians",
-		"uniqueText": "Let's just say that there's more. For example, they can heal without pillaging."
+		"uniqueText": "Let's just say that there's more to them than you think. For example, they can heal without pillaging."
 		"uniques": [
 			"[+75]% Strength <for [Military] units>",
 			"[{Land} {Melee}] units gain the [No Suicide] promotion",
@@ -13,6 +13,11 @@
 			"Earn [200]% of the damage done to [All] units as [Science]",
 			"Earn [100]% of killed [Military] unit's [Cost] as [Science]",
 			"Earn [200]% of killed [Military] unit's [Strength] as [Science]",
+			"[5] Free Technologies <after [200] turns>"
+			"[10] Free Technologies <after [300] turns>"
+			"[15] Free Technologies <after [400] turns>"
+			"[20] Free Technologies <after [500] turns>"
+			"[1000] units cost no maintenance"
 			
 			//Medieval - Barbarian get more effective!
 			"Triggers the following global alert: [The Barbarians have entered the Medieval Era! Be wary of their strength...] <upon entering the [Medieval era]>",
@@ -30,13 +35,10 @@
 			
 			//Modern - Barbarians start revolts!
 			"Triggers the following global alert: [Unrest grows around the world! Could this be because of the Barbarians?] <upon entering the [Modern era]>",
-			
+			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Information era]>"
+		
 			//Atomic - Barbarian NUCLEAR WEAPONS!
 			"Triggers the following global alert: [RED ALERT! The Barbarians have entered the Atomic Era! I repeat, RED ALERT!] <upon entering the [Atomic era]>",
-			
-			//Information - Barbarians go underground!
-			"Triggers the following global alert: [What happened to the Barbarians? Be wary of this silence.] <upon entering the [Information era]>",
-			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Modern era]>"
 			
 		]
 	}
