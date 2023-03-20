@@ -10,6 +10,9 @@
 			"[+75]% Strength <for [Military] units>",
 			"[{Land} {Melee}] units gain the [No Suicide] promotion",
 			"No movement cost to pillage <for [Military] units>",
+			"Earn [200]% of the damage done to [All] units as [Science]",
+			"Earn [100]% of killed [Military] unit's [Cost] as [Science]",
+			"Earn [200]% of killed [Military] unit's [Strength] as [Science]",
 			
 			//Medieval - Barbarian get more effective!
 			"Triggers the following global alert: [The Barbarians have entered the Medieval Era! Be wary of their strength...] <upon entering the [Medieval era]>",
