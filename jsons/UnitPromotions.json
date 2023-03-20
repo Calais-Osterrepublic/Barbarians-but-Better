@@ -5,7 +5,14 @@
 			"Can only attack [Civilian] units", 
 			"Can only attack [Military] units", 
 			"[+15]% Strength when stacked with [Worker]",
-			"Heals [25] damage if it kills a unit"
+			"Heals [25] damage if it kills a unit",
+			"This Unit upgrades for free including special upgrades <upon entering the [Classical era]> <with [25]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Medieval era]> <with [25]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Renaissance era]> <with [25]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Industrial era]> <with [50]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Modern era]> <with [50]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Atomic era]> <with [75]% chance>",
+			"This Unit upgrades for free including special upgrades <upon entering the [Information era]> <with [100]% chance>",
 		],
 	},
 	{
