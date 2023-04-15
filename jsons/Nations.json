@@ -10,36 +10,22 @@
 			"[+75]% Strength <for [Military] units>",
 			"[{Land} {Melee}] units gain the [No Suicide] promotion",
 			"No movement cost to pillage <for [Military] units>",
-			"Earn [200]% of the damage done to [All] units as [Science]",
-			"Earn [100]% of killed [Military] unit's [Cost] as [Science]",
-			"Earn [200]% of killed [Military] unit's [Strength] as [Science]",
-			"[5] Free Technologies <after [200] turns>"
-			"[10] Free Technologies <after [300] turns>"
-			"[15] Free Technologies <after [400] turns>"
-			"[20] Free Technologies <after [500] turns>"
 			"[1000] units cost no maintenance"
 			
 			//Medieval - Barbarian get more effective!
-			"Triggers the following global alert: [The Barbarians have entered the Medieval Era! Be wary of their strength...] <upon entering the [Medieval era]>",
 			"[+75]% Strength <for [Military] units> <starting from the [Medieval era]>",
 			
 			//Renaissance - Barbarian Capturing Units!
-			"Triggers the following global alert: [The Barbarians have entered the Renaissance Era! Watch your units!] <upon entering the [Renaissance era]>",
 			"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance> <starting from the [Renaissance era]>",
 			
 			//Industrial - Barbarian get stronger near Encampments!
-			"Triggers the following global alert: [The Barbarians have entered the Industrial Era! Entrenchment near the encampments increases!] <upon entering the [Industrial era]>",
 			"[+33]% Strength <within [3] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			"[+33]% Strength <within [2] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			"[+33]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			
 			//Modern - Barbarians start revolts!
-			"Triggers the following global alert: [Unrest grows around the world! Could this be because of the Barbarians?] <upon entering the [Modern era]>",
-			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Information era]>"
+			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Modern era]>"
 		
-			//Atomic - Barbarian NUCLEAR WEAPONS!
-			"Triggers the following global alert: [RED ALERT! The Barbarians have entered the Atomic Era! I repeat, RED ALERT!] <upon entering the [Atomic era]>",
-			
 		]
 	}
 ]
