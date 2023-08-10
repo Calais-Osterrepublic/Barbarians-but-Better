@@ -128,19 +128,13 @@
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
         "uniques": ["This Unit upgrades for free including special upgrades"],
 		"color": "#20afe8"
-    },
-	{
-        "name": "levied spearman",
-        "notification": "A young [Spearman] has joined us!",
-        "uniques": ["Free [Spearman] appears", "Only available <after [20] turns> <before [150] turns>"],
-		"color": "#20afe8"
-    },
-	{
-		"name": "levied wayfarer",
-		"notification": "A [Wayfarer] has joined us!",
-		"uniques": ["Free [Wayfarer] appears", "Only available <after [40] turns>"],
-		"color": "#20afe8"
 	},
+	{
+		"name": "levied spearman",
+        	"notification": "A young [Spearman] has joined us!",
+        	"uniques": ["Free [Spearman] appears", "Only available <after [20] turns> <before [150] turns>"],
+		"color": "#20afe8"
+    	},
 	
 	// Maps
 	{
