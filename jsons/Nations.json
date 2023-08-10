@@ -7,25 +7,20 @@
 		"style": "Barbarians",
 		"uniqueText": "Let's just say that there's more to them than you think. For example, they can heal without pillaging."
 		"uniques": [
-			"[+75]% Strength <for [Military] units>",
+			"[+33]% Strength <for [Military] units>",
 			"[{Land} {Melee}] units gain the [No Suicide] promotion",
 			"No movement cost to pillage <for [Military] units>",
-			"[1000] units cost no maintenance"
+			"[1000] units cost no maintenance",
 			
-			//Medieval - Barbarian get more effective!
-			"[+75]% Strength <for [Military] units> <starting from the [Medieval era]>",
+			"[+33]% Strength <for [Military] units> <starting from the [Medieval era]>",
 			
-			//Renaissance - Barbarian Capturing Units!
 			"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance> <starting from the [Renaissance era]>",
 			
-			//Industrial - Barbarian get stronger near Encampments!
 			"[+33]% Strength <within [3] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			"[+33]% Strength <within [2] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			"[+33]% Strength <within [1] tiles of a [Barbarian encampment]> <when defending> <starting from the [Industrial era]>",
 			
-			//Modern - Barbarians start revolts!
 			"[Military] units gain the [Barbarian Civilian] promotion <starting from the [Modern era]>"
-		
 		]
 	}
 ]
