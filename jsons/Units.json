@@ -16,7 +16,6 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 20,
-		"rangedStrength": 20,
 		"range": 1,
 		"cost": 250,
 		"requiredTech" : "Scientific Theory",
@@ -41,8 +40,7 @@
 			"Self-destructs when attacking",
 			"Nuclear weapon of Strength [1]",
 			"Blast radius [5]",
-			"Only available <starting from the [Atomic era]>"
-			   ],
+		],
 		"attackSound": "shot"
 	}
 ]
