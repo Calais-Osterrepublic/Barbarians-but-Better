@@ -20,7 +20,7 @@
 	},
 	{
 		"name": "adopt foreign policy",
-		"notification": "We have discovered a scripture of policy idea, we can now try adopt it!",
+		"notification": "We have discovered a script of policy, we could try to adopt it!",
 		"uniques": ["Free Social Policy", "Only available <before [70] turns>"],
 		"color": "#cf8ff7"
 	},
@@ -34,13 +34,13 @@
 	},
 	{
 		"name": "discover a research note",
-		"notification": "We have discovered an Inventor's research note! (+[scienceAmount] science)",
+		"notification": "We have discovered someone's research note! (+[scienceAmount] science)",
 		"uniques": ["Gain [80]-[100] [Science]", "Only available <after [35] turns>"],
 		"color": "#7f7fff"
 	},
 	{
 		"name": "stolen technology",
-		"notification": "We are succesfully take control of their stolen technology! (+[scienceAmount] science)",
+		"notification": "We are succesfully take control of stolen technology! (+[scienceAmount] science)",
 		"uniques": ["Gain [100]-[150] [Science]", "Only available <after [50] turns>"],
 		"color": "#7f7fff"
 	},
@@ -48,7 +48,7 @@
 	// Gold
 	{
 		"name": "small money",
-		"notification": "Small amount of money buried underground! (+50 gold)",
+		"notification": "A small collection of gold has been discovered underground! (+50 gold)",
 		"uniques": ["Gain [50] [Gold]"],
 		"color": "#ffeb7f"
 	},
@@ -90,8 +90,8 @@
 	// Population
 	{
 		"name": "accepted immigrants (adds 3 population to a city)",
-		"notification": "A family of immigrants saved in the ruins! Population added to [cityName].",
-		"uniques": ["[+3] population [in capital]", "Only available <after [40] turns>"],
+		"notification": "A family of immigrants saved in the ruins! Population added to your capital.",
+		"uniques": ["[+2] population [in capital]", "Only available <after [40] turns>"],
 		"color": "#81c784"
 	},
 	
@@ -104,11 +104,24 @@
 		"excludedDifficulties": ["Immortal","Deity"]
 	},
 	{
-        "name": "save a merchant",
-        "notification": "We have succesfully save a [Great Merchant]!",
-        "uniques": ["Free [Great Merchant] found in the ruins"],
+		"name": "lost warhead",
+		"notification": "Accidentally, we discovered a lost warhead!",
+		"uniques": ["Free [Suicider] found in the ruins", "Only available <after [500] turns>"],
 		"color": "#e89220"
-    },
+		"excludedDifficulties": ["Immortal","Deity"]
+	},
+	{
+	        "name": "save a merchant",
+	        "notification": "We have succesfully save a [Great Merchant]!",
+	        "uniques": ["Free [Great Merchant] found in the ruins"],
+		"color": "#e89220"
+    	},
+	{
+	        "name": "save a worker",
+	        "notification": "We found a lost worker!",
+	        "uniques": ["Free [Worker] found in the ruins"],
+		"color": "#e89220"
+    	},
 	
 	// Military
 	{
@@ -124,9 +137,21 @@
 		"color": "#20afe8"
 	},
 	{
-        "name": "advanced weaponry for your explorer",
-        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["This Unit upgrades for free including special upgrades"],
+		"name": "lost tactics",
+		"notification": "Your men discovered advanced military tactics!",
+		"uniques": ["This Unit gains [50] XP", "Only available <after [100] turns>"],
+		"color": "#20afe8"
+	},
+	{
+	        "name": "advanced weaponry for your explorer",
+	        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+	        "uniques": ["This Unit upgrades for free including special upgrades"],
+		"color": "#20afe8"
+	},
+	{
+	        "name": "heal unit",
+	        "notification": "Our unit finds some rare medicinal plants!",
+	        "uniques": ["Heal this unit by [25] HP"],
 		"color": "#20afe8"
 	},
 	{
@@ -140,25 +165,24 @@
 	{
 		"name": "reveal nearby Bonus resource",
 		"notification": "You found notes of crop yields area!",
-		"uniques": ["Reveal up to [All] [Bonus resource] within a [10] tile radius",
+		"uniques": ["Reveal up to [All] [Bonus resource] within a [7] tile radius",
 					"Only available <before [100] turns>"]
 	},
 	{
 		"name": "reveal nearby Luxury resource",
 		"notification": "You found notes of rare and valueable resources!",
-		"uniques": ["Reveal up to [All] [Luxury resource] within a [7] tile radius",
+		"uniques": ["Reveal up to [All] [Luxury resource] within a [4] tile radius",
 					"Only available <before [100] turns>"]
 	},
 	{
 		"name": "find a well-drawn map",
 		"notification": "We have found a well-drawn map in the ruins!",
-		"uniques": ["From a randomly chosen tile [5] tiles away, reveal tiles up to [5] tiles away with [100]% chance"]
+		"uniques": ["From a randomly chosen tile [5] tiles away, reveal tiles up to [5] tiles away with [75]% chance"]
 	},
-	
 	// Triggerable
 	{
 		"name": "into era of greatness",
-		"notification": "Solving a potential problem bring us to the era of greatness",
+		"notification": "Solving a potential problem bring us to the era of greatness!",
 		"uniques": ["Empire enters golden age", "Only available <after [50] turns>"],
 		"color": "#cf8ff7"
 	}
