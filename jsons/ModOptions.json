@@ -7,17 +7,6 @@
         "Rebel units may spawn <upon declaring war with a major Civilization> <when below [-10] Happiness>",
         "Rebel units may spawn <upon conquering a city> <when below [-10] Happiness>",
         "Rebel units may spawn <when at war> <when below [-10] Happiness>",
-        "[+100]% Unhappiness from [Population] [in all cities] <starting from the [Industrial era]>",
-        "[+100]% Unhappiness from [Population] [in all cities] <when between [20] and [1000] Happiness> <when at war>",
-        "[+100]% Unhappiness from [Population] [in all cities] <when between [40] and [1000] Happiness> <when at war>",
-        "[+100]% Unhappiness from [Population] [in all cities] <when between [60] and [1000] Happiness> <when at war>",
-        "[+100]% Unhappiness from [Population] [in all cities] <when between [80] and [1000] Happiness> <when at war>",
-        "[+100]% Unhappiness from [Population] [in all cities] <when between [100] and [1000] Happiness> <when at war>",
-        "[+50]% Unhappiness from [Population] [in all cities] <when between [20] and [1000] Happiness> <when not at war>",
-        "[+50]% Unhappiness from [Population] [in all cities] <when between [40] and [1000] Happiness> <when not at war>",
-        "[+50]% Unhappiness from [Population] [in all cities] <when between [60] and [1000] Happiness> <when not at war>",
-        "[+50]% Unhappiness from [Population] [in all cities] <when between [80] and [1000] Happiness> <when not at war>",
-        "[+50]% Unhappiness from [Population] [in all cities] <when between [100] and [1000] Happiness> <when not at war>",
         "Rebel units may spawn <when below [-15] Happiness>"
     ]
 }
