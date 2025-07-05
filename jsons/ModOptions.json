@@ -2,11 +2,5 @@
     "constants": {
         "maxXPfromBarbarians":1000,
     }
-    "isBaseRuleset": false,
-    "uniques": [
-        "Rebel units may spawn <upon declaring war with a major Civilization> <when below [-10] Happiness>",
-        "Rebel units may spawn <upon conquering a city> <when below [-10] Happiness>",
-        "Rebel units may spawn <when at war> <when below [-10] Happiness>",
-        "Rebel units may spawn <when below [-15] Happiness>"
-    ]
+    "isBaseRuleset": false
 }
